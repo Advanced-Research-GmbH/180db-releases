@@ -7,16 +7,16 @@
     <language>en</language>
     <item>
       <title>Version 0.1.0</title>
-      <pubDate>Mon, 02 Mar 2026 14:50:54 GMT</pubDate>
-      <sparkle:version>260302.1547</sparkle:version>
+      <pubDate>Mon, 02 Mar 2026 15:44:06 GMT</pubDate>
+      <sparkle:version>260302.1641</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
       <description><![CDATA[Bug fixes and improvements.]]></description>
       <enclosure
-        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.0-beta%2B260302.1547/180db-Beta-0.1.0.dmg"
-        length="31336454"
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.0-beta%2B260302.1641/180db-Beta-0.1.0.dmg"
+        length="31772478"
         type="application/octet-stream"
-        sparkle:edSignature="CLx/syDBrVW2fcMwFeABI4iQwoKgNA/noYfxUdkPntoJ/U2Gz1jcZBXz2c/2rFQV8yYLtnnUaJheJ8EQn2qfBQ=="
+        sparkle:edSignature="CoFd/ur7ESSCaTINwk3uTXgc14PqPNnS8zaBgg5esTzP6U6Eg3M6Kg+st03Orer2PB2BigHwDBcfmRbIVqBHCw=="
       />
     </item>
   </channel>
