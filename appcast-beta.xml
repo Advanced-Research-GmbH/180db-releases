@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>180db Beta</title>
+    <link>https://Advanced-Research-GmbH.github.io/180db-releases/appcast-beta.xml</link>
+    <description>180db Beta Updates</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Mon, 02 Mar 2026 14:04:09 GMT</pubDate>
+      <sparkle:version>260302.1501</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[Bug fixes and improvements.]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.0-beta/180db-Beta-0.1.0.zip"
+        length="26654639"
+        type="application/octet-stream"
+        sparkle:edSignature="wEQ7/z7UP/zPvFiRd6Ey6Sl1TX7W02tRXWNixrcUtaTeLs5guiMQqKIy4J4Lx8I45bz7MQVRaIcz2Ys3EIRIBQ=="
+      />
+    </item>
+  </channel>
+</rss>
