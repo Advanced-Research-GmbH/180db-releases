@@ -75,5 +75,19 @@
         sparkle:edSignature="AGlEVpSnNmCHD0gfL06JD1ZN5PC9l6JJ1ZodNEX+r2qvXbdYhFu1CnVNnFAEHEoYRKV5Suk3wgaNw1Aj/BfWDg=="
       />
     </item>
+      <item>
+      <title>Version 0.1.15</title>
+      <pubDate>Wed, 22 Apr 2026 11:46:50 GMT</pubDate>
+      <sparkle:version>260422.1344</sparkle:version>
+      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[Cmd Tab fix, Light Mode appearance, Open with Finder]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.15-beta%2B260422.1344/180db-Beta-0.1.15.dmg"
+        length="32596388"
+        type="application/octet-stream"
+        sparkle:edSignature="YHiHa8GyYh1IV40Dfviv/KEuKGwisVT2/d2Kj6YaoRyl/BTsyoO64oA90L0gZB7kG4YhspCGCv5nQX6jUJTjDA=="
+      />
+    </item>
   </channel>
 </rss>
