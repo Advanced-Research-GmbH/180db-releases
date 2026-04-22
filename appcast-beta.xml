@@ -187,5 +187,19 @@
         sparkle:edSignature="9jsSl9m/vBc/bJZSiLU/spsk3d+sXvCeaevBjZUI/piAd1BgkyuXMKVxv3QxFyye6JFiyshR+qEIxBcpWNyZCQ=="
       />
     </item>
+      <item>
+      <title>Version 0.1.23</title>
+      <pubDate>Wed, 22 Apr 2026 13:39:16 GMT</pubDate>
+      <sparkle:version>260422.1536</sparkle:version>
+      <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Cmd Tab fix</li><li>Light Mode appearance</li><li>Open with Finder</li><li>Overscroll with a drop zone</li><li>Background shader optimization</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.23-beta%2B260422.1536/180db-Beta-0.1.23.dmg"
+        length="32597749"
+        type="application/octet-stream"
+        sparkle:edSignature="JyyT1nma0ft/lLSA4uzfDR96A5orcwtUKS+JwiTu/HNLWfvo15Up/Z0vf8B+UMweoGAvxM6SBKgjfZ+dP0tHDQ=="
+      />
+    </item>
   </channel>
 </rss>
