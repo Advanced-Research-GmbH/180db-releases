@@ -229,5 +229,19 @@
         sparkle:edSignature="gt+ibVeJ6FHC0fPiMSJk5Bv2sF9fd+Q3aMzFW4r1aDsGxlh+a4OAj8EKMe2bgeVLopWcfza/qUw1GQJHRcbhCg=="
       />
     </item>
+      <item>
+      <title>Version 0.1.29</title>
+      <pubDate>Thu, 23 Apr 2026 16:04:34 GMT</pubDate>
+      <sparkle:version>260423.1802</sparkle:version>
+      <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[Volume control throttles UI responsiveness fix]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.29-beta%2B260423.1802/180db-Beta-0.1.29.dmg"
+        length="30967256"
+        type="application/octet-stream"
+        sparkle:edSignature="yb2P2FQOQvf+EKX4M6U+laT+bapTyV84M57Gc+VlNMh3aj4U2gQ4xzem9YYypP8lz2ptIgkjzLWECNzxEkEnBw=="
+      />
+    </item>
   </channel>
 </rss>
