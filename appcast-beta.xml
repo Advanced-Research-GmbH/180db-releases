@@ -215,5 +215,19 @@
         sparkle:edSignature="k6umaVPkn/X9jbS3Wom90uhPJAVz6CB8E9bMB4VnYkluD/mu3CVyEbdq/xGySHvIIrjkmw42cYdIbuLm8PzODA=="
       />
     </item>
+      <item>
+      <title>Version 0.1.28</title>
+      <pubDate>Thu, 23 Apr 2026 14:17:47 GMT</pubDate>
+      <sparkle:version>260423.1615</sparkle:version>
+      <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[MacOS 14]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.28-beta%2B260423.1615/180db-Beta-0.1.28.dmg"
+        length="30965410"
+        type="application/octet-stream"
+        sparkle:edSignature="gt+ibVeJ6FHC0fPiMSJk5Bv2sF9fd+Q3aMzFW4r1aDsGxlh+a4OAj8EKMe2bgeVLopWcfza/qUw1GQJHRcbhCg=="
+      />
+    </item>
   </channel>
 </rss>
