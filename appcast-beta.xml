@@ -257,5 +257,19 @@
         sparkle:edSignature="mcTp0u8WEwL5TMY/Y8LMJZ8kjPSYOOVvQdg4f6Hj5A7k9rQ2pYbpuo0LtbbhudfMTrosNlgtGkpU4dq+X10PAA=="
       />
     </item>
+      <item>
+      <title>Version 0.1.41</title>
+      <pubDate>Tue, 28 Apr 2026 16:36:36 GMT</pubDate>
+      <sparkle:version>260428.1834</sparkle:version>
+      <sparkle:shortVersionString>0.1.41</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New Audio Engine</h3><ul><li>Rebuilt from the ground up for lower latency and better performance</li><li>Improved gapless playback across formats</li><li>Fixed audio crackle and sample rate issues</li><li>WAV metadata (title, artist) now read correctly</li></ul><h3>Shader Background</h3><ul><li>Refined animated background shader with improved contrast and shadows</li><li>New Shader Settings panel to tweak the background effect</li><li>Fixed GPU wait state issues that could cause stuttering</li><li>Fixed rendering bug when resizing windows</li></ul><h3>DJ Mode</h3><ul><li>Reworked reverb engine with improved sound quality</li><li>Fixed rate slider animation glitch when pressing ECCO</li><li>DJ button is now fully clickable across its entire area</li><li>DJ panel backgrounds now match the player color in empty state</li></ul><h3>Playback &amp; Playlist</h3><ul><li>Natural track sorting (e.g. "Track 2" before "Track 10")</li><li>Seeking works on armed tracks before playback starts</li><li>Last track in the playlist now replays correctly</li><li>Fixed scrolling to the current track when switching songs</li><li>Arrow key navigation no longer intercepted unexpectedly</li></ul><h3>Interface</h3><ul><li>New application menu bar with File, Playlist, and Control menus</li><li>Right-click context menu on transport controls</li><li>Show/hide artist names in the playlist</li><li>Consistent empty state colors per track</li><li>Refined title and artist text shadows for readability</li><li>Fixed volume slider jitter</li><li>Player always uses dark mode</li><li>macOS 14.0 is now the minimum supported version</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.41-beta%2B260428.1834/180db-Beta-0.1.41.dmg"
+        length="27221967"
+        type="application/octet-stream"
+        sparkle:edSignature="loG2sMbTZ5lY4iKm/C7yz7yRw9ojr0yw5aBx4seWY+wUb/Z41iXNQmiwBBOjUEzhyxPr1Z0c0O+llpoea6SPBQ=="
+      />
+    </item>
   </channel>
 </rss>
