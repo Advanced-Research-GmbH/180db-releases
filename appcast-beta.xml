@@ -285,5 +285,46 @@
         sparkle:edSignature="Z8Noxf/CR5hQ2lkCWcz2URMBx6cB3Rj6MPeESwCaPhIFWArMjPeYd2gtSQqIUY99wcm6UHfJGvOxgBHXjQeiCw=="
       />
     </item>
+      <item>
+      <title>Version 0.1.49</title>
+      <pubDate>Wed, 29 Apr 2026 16:39:56 GMT</pubDate>
+      <sparkle:version>260429.1838</sparkle:version>
+      <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>180db Changelog — April 28-29, 2026</h3>
+<h3>Audio Capture</h3>
+<ul>
+<li>New Cmd+B shortcut copies the last 30 seconds of audio to clipboard.</li>
+<li>Paste directly into your DAW or save as a WAV file.</li>
+</ul>
+<h3>Playback & Navigation</h3>
+<ul>
+<li>YouTube-style track navigation: clicking on the waveform progress bar navigates within the track.</li>
+<li>Right-click on the duration label now shows time remaining.</li>
+<li>Current track and playback position are now restored when reopening windows.</li>
+</ul>
+<h3>Drag & Drop</h3>
+<ul>
+<li>Drag and drop now works on the entire player window, not just specific areas.</li>
+</ul>
+<h3>Audio Engine</h3>
+<ul>
+<li>Resampling is now handled internally for better control and quality.</li>
+<li>Added parameter smoothing for smoother audio transitions.</li>
+<li>Audio processing moved to a separate thread for improved performance.</li>
+<li>Continuous buffer improvements for more stable playback.</li>
+</ul>
+<h3>UI Polish</h3>
+<ul>
+<li>Status bar background is now lighter for better readability.</li>
+<li>Various cosmetic refinements throughout the interface.</li>
+</ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.49-beta%2B260429.1838/180db-Beta-0.1.49.dmg"
+        length="24887813"
+        type="application/octet-stream"
+        sparkle:edSignature="hQCQ8yjcTvse7nxOBPesWBe4d6Oqkl6EX5FHQaNQTzvSX+w6flxLGXWjS8cua9Lva73CR4A8HcKE6GqHxqyGAQ=="
+      />
+    </item>
   </channel>
 </rss>
