@@ -47,5 +47,298 @@
         sparkle:edSignature="o5d0YPPKJ0tGG13Z2JO8rJQjb/73NCY1y7p8HwGey/Q2dxEnXZ8feT2tL6g95V/i7Qp6IoSD5HQxcA/cxPB6BQ=="
       />
     </item>
+      <item>
+      <title>Version 0.1.12</title>
+      <pubDate>Wed, 15 Apr 2026 17:06:31 GMT</pubDate>
+      <sparkle:version>260415.1901</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[Beta RC1]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.12-beta%2B260415.1901/180db-Beta-0.1.12.dmg"
+        length="27733219"
+        type="application/octet-stream"
+        sparkle:edSignature="bmqIffYfqKTSrwS62zX8QmT0aZbSwjyquqBYArdkyCoTrYxV0GEOCfoK3pTHBlSU332nEPsSRvnoJaQ0a6BgBQ=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.14</title>
+      <pubDate>Wed, 22 Apr 2026 11:31:07 GMT</pubDate>
+      <sparkle:version>260422.1328</sparkle:version>
+      <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[Cmd Tab fix, Light Mode appearance]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.14-beta%2B260422.1328/180db-Beta-0.1.14.dmg"
+        length="32595424"
+        type="application/octet-stream"
+        sparkle:edSignature="AGlEVpSnNmCHD0gfL06JD1ZN5PC9l6JJ1ZodNEX+r2qvXbdYhFu1CnVNnFAEHEoYRKV5Suk3wgaNw1Aj/BfWDg=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.15</title>
+      <pubDate>Wed, 22 Apr 2026 11:46:50 GMT</pubDate>
+      <sparkle:version>260422.1344</sparkle:version>
+      <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[Cmd Tab fix, Light Mode appearance, Open with Finder]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.15-beta%2B260422.1344/180db-Beta-0.1.15.dmg"
+        length="32596388"
+        type="application/octet-stream"
+        sparkle:edSignature="YHiHa8GyYh1IV40Dfviv/KEuKGwisVT2/d2Kj6YaoRyl/BTsyoO64oA90L0gZB7kG4YhspCGCv5nQX6jUJTjDA=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.16</title>
+      <pubDate>Wed, 22 Apr 2026 12:14:02 GMT</pubDate>
+      <sparkle:version>260422.1411</sparkle:version>
+      <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Cmd Tab fix</li><li>Light Mode appearance</li><li>Open with Finder</li><li>Overscroll with a drop zone</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.16-beta%2B260422.1411/180db-Beta-0.1.16.dmg"
+        length="32601377"
+        type="application/octet-stream"
+        sparkle:edSignature="jLnvRh5l/S07fswDKZle0doV65JYHwgDJOocMQcP3+CPwbum338V4l2SojkqHxh8Sf04RoLiTOP8tgljTJM/DQ=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.17</title>
+      <pubDate>Wed, 22 Apr 2026 12:28:23 GMT</pubDate>
+      <sparkle:version>260422.1425</sparkle:version>
+      <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Cmd Tab fix</li><li>Light Mode appearance</li><li>Open with Finder</li><li>Overscroll with a drop zone</li><li>Background shader optimization</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.17-beta%2B260422.1425/180db-Beta-0.1.17.dmg"
+        length="32600866"
+        type="application/octet-stream"
+        sparkle:edSignature="xrdHCp0MbdcR6zkYvdrR/6FGM00FyUUq47Z8BKT7TWCU54P8bk+Z/UZaJg6hPP7OG89vgw6QMM9J4gJfc+pNCg=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.18</title>
+      <pubDate>Wed, 22 Apr 2026 12:57:57 GMT</pubDate>
+      <sparkle:version>260422.1455</sparkle:version>
+      <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Cmd Tab fix</li><li>Light Mode appearance</li><li>Open with Finder</li><li>Overscroll with a drop zone</li><li>Background shader optimization</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.18-beta%2B260422.1455/180db-Beta-0.1.18.dmg"
+        length="32604119"
+        type="application/octet-stream"
+        sparkle:edSignature="qMUcXlLMpc+0OnNGGVk6f3iTiJ9nU6DiwusYY6sEHasTzhqFdkOC2N+L3s4Dx3w8buf14XWF7WM2n1+XyrqHCA=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.19</title>
+      <pubDate>Wed, 22 Apr 2026 13:01:13 GMT</pubDate>
+      <sparkle:version>260422.1458</sparkle:version>
+      <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Cmd Tab fix</li><li>Light Mode appearance</li><li>Open with Finder</li><li>Overscroll with a drop zone</li><li>Background shader optimization</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.19-beta%2B260422.1458/180db-Beta-0.1.19.dmg"
+        length="32604584"
+        type="application/octet-stream"
+        sparkle:edSignature="XyU/HwdaML38T7UXX1cVw7x9+D2WKQbFdC18oZ0ca0ZI2jkYOm/iVxjTLurXHdyQEji3B6u+XrVENJTsQmp7Dw=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.20</title>
+      <pubDate>Wed, 22 Apr 2026 13:18:47 GMT</pubDate>
+      <sparkle:version>260422.1516</sparkle:version>
+      <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Cmd Tab fix</li><li>Light Mode appearance</li><li>Open with Finder</li><li>Overscroll with a drop zone</li><li>Background shader optimization</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.20-beta%2B260422.1516/180db-Beta-0.1.20.dmg"
+        length="32601874"
+        type="application/octet-stream"
+        sparkle:edSignature="0XCbxPNdO1l+OO9eJbRrDx5497QyWtMMcs7pd7GnF/mRHpuY+Y2ZJec95dACtWnFY5prRLTrN68WmF4Z5NTNBw=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.21</title>
+      <pubDate>Wed, 22 Apr 2026 13:30:42 GMT</pubDate>
+      <sparkle:version>260422.1528</sparkle:version>
+      <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Cmd Tab fix</li><li>Light Mode appearance</li><li>Open with Finder</li><li>Overscroll with a drop zone</li><li>Background shader optimization</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.21-beta%2B260422.1528/180db-Beta-0.1.21.dmg"
+        length="32603559"
+        type="application/octet-stream"
+        sparkle:edSignature="fAKcjC9c6O6YC7fkjWWtnTrRWtZ1/4G05F0QttuE5uyIciFX5qGO1Uj9/EtAVglOFFo6MPEc1UnewWb6LiuCDQ=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.22</title>
+      <pubDate>Wed, 22 Apr 2026 13:35:34 GMT</pubDate>
+      <sparkle:version>260422.1533</sparkle:version>
+      <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Cmd Tab fix</li><li>Light Mode appearance</li><li>Open with Finder</li><li>Overscroll with a drop zone</li><li>Background shader optimization</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.22-beta%2B260422.1533/180db-Beta-0.1.22.dmg"
+        length="32602134"
+        type="application/octet-stream"
+        sparkle:edSignature="9jsSl9m/vBc/bJZSiLU/spsk3d+sXvCeaevBjZUI/piAd1BgkyuXMKVxv3QxFyye6JFiyshR+qEIxBcpWNyZCQ=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.23</title>
+      <pubDate>Wed, 22 Apr 2026 13:39:16 GMT</pubDate>
+      <sparkle:version>260422.1536</sparkle:version>
+      <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Cmd Tab fix</li><li>Light Mode appearance</li><li>Open with Finder</li><li>Overscroll with a drop zone</li><li>Background shader optimization</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.23-beta%2B260422.1536/180db-Beta-0.1.23.dmg"
+        length="32597749"
+        type="application/octet-stream"
+        sparkle:edSignature="JyyT1nma0ft/lLSA4uzfDR96A5orcwtUKS+JwiTu/HNLWfvo15Up/Z0vf8B+UMweoGAvxM6SBKgjfZ+dP0tHDQ=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.24</title>
+      <pubDate>Wed, 22 Apr 2026 13:52:06 GMT</pubDate>
+      <sparkle:version>260422.1549</sparkle:version>
+      <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Cmd Tab fix</li><li>Light Mode appearance</li><li>Open with Finder</li><li>Background shader optimization</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.24-beta%2B260422.1549/180db-Beta-0.1.24.dmg"
+        length="32597055"
+        type="application/octet-stream"
+        sparkle:edSignature="k6umaVPkn/X9jbS3Wom90uhPJAVz6CB8E9bMB4VnYkluD/mu3CVyEbdq/xGySHvIIrjkmw42cYdIbuLm8PzODA=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.28</title>
+      <pubDate>Thu, 23 Apr 2026 14:17:47 GMT</pubDate>
+      <sparkle:version>260423.1615</sparkle:version>
+      <sparkle:shortVersionString>0.1.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[MacOS 14]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.28-beta%2B260423.1615/180db-Beta-0.1.28.dmg"
+        length="30965410"
+        type="application/octet-stream"
+        sparkle:edSignature="gt+ibVeJ6FHC0fPiMSJk5Bv2sF9fd+Q3aMzFW4r1aDsGxlh+a4OAj8EKMe2bgeVLopWcfza/qUw1GQJHRcbhCg=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.29</title>
+      <pubDate>Thu, 23 Apr 2026 16:04:34 GMT</pubDate>
+      <sparkle:version>260423.1802</sparkle:version>
+      <sparkle:shortVersionString>0.1.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[Volume control throttles UI responsiveness fix]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.29-beta%2B260423.1802/180db-Beta-0.1.29.dmg"
+        length="30967256"
+        type="application/octet-stream"
+        sparkle:edSignature="yb2P2FQOQvf+EKX4M6U+laT+bapTyV84M57Gc+VlNMh3aj4U2gQ4xzem9YYypP8lz2ptIgkjzLWECNzxEkEnBw=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.30</title>
+      <pubDate>Fri, 24 Apr 2026 13:21:09 GMT</pubDate>
+      <sparkle:version>260424.1519</sparkle:version>
+      <sparkle:shortVersionString>0.1.30</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[Control UI adjustments]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.30-beta%2B260424.1519/180db-Beta-0.1.30.dmg"
+        length="30970152"
+        type="application/octet-stream"
+        sparkle:edSignature="mcTp0u8WEwL5TMY/Y8LMJZ8kjPSYOOVvQdg4f6Hj5A7k9rQ2pYbpuo0LtbbhudfMTrosNlgtGkpU4dq+X10PAA=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.41</title>
+      <pubDate>Tue, 28 Apr 2026 16:36:36 GMT</pubDate>
+      <sparkle:version>260428.1834</sparkle:version>
+      <sparkle:shortVersionString>0.1.41</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New Audio Engine</h3><ul><li>Rebuilt from the ground up for lower latency and better performance</li><li>Improved gapless playback across formats</li><li>Fixed audio crackle and sample rate issues</li><li>WAV metadata (title, artist) now read correctly</li></ul><h3>Shader Background</h3><ul><li>Refined animated background shader with improved contrast and shadows</li><li>New Shader Settings panel to tweak the background effect</li><li>Fixed GPU wait state issues that could cause stuttering</li><li>Fixed rendering bug when resizing windows</li></ul><h3>DJ Mode</h3><ul><li>Reworked reverb engine with improved sound quality</li><li>Fixed rate slider animation glitch when pressing ECCO</li><li>DJ button is now fully clickable across its entire area</li><li>DJ panel backgrounds now match the player color in empty state</li></ul><h3>Playback &amp; Playlist</h3><ul><li>Natural track sorting (e.g. "Track 2" before "Track 10")</li><li>Seeking works on armed tracks before playback starts</li><li>Last track in the playlist now replays correctly</li><li>Fixed scrolling to the current track when switching songs</li><li>Arrow key navigation no longer intercepted unexpectedly</li></ul><h3>Interface</h3><ul><li>New application menu bar with File, Playlist, and Control menus</li><li>Right-click context menu on transport controls</li><li>Show/hide artist names in the playlist</li><li>Consistent empty state colors per track</li><li>Refined title and artist text shadows for readability</li><li>Fixed volume slider jitter</li><li>Player always uses dark mode</li><li>macOS 14.0 is now the minimum supported version</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.41-beta%2B260428.1834/180db-Beta-0.1.41.dmg"
+        length="27221967"
+        type="application/octet-stream"
+        sparkle:edSignature="loG2sMbTZ5lY4iKm/C7yz7yRw9ojr0yw5aBx4seWY+wUb/Z41iXNQmiwBBOjUEzhyxPr1Z0c0O+llpoea6SPBQ=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.42</title>
+      <pubDate>Tue, 28 Apr 2026 17:54:25 GMT</pubDate>
+      <sparkle:version>260428.1952</sparkle:version>
+      <sparkle:shortVersionString>0.1.42</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New Audio Engine</h3><ul><li>Rebuilt from the ground up for lower latency and better performance</li><li>Improved gapless playback across formats</li><li>Fixed audio crackle and sample rate issues</li><li>WAV metadata (title, artist) now read correctly</li></ul><h3>Shader Background</h3><ul><li>Refined animated background shader with improved contrast and shadows</li><li>New Shader Settings panel to tweak the background effect</li><li>Fixed GPU wait state issues that could cause stuttering</li><li>Fixed rendering bug when resizing windows</li></ul><h3>DJ Mode</h3><ul><li>Reworked reverb engine with improved sound quality</li><li>Fixed rate slider animation glitch when pressing ECCO</li><li>DJ button is now fully clickable across its entire area</li><li>DJ panel backgrounds now match the player color in empty state</li></ul><h3>Playback &amp; Playlist</h3><ul><li>Natural track sorting (e.g. "Track 2" before "Track 10")</li><li>Seeking works on armed tracks before playback starts</li><li>Last track in the playlist now replays correctly</li><li>Fixed scrolling to the current track when switching songs</li><li>Arrow key navigation no longer intercepted unexpectedly</li></ul><h3>Interface</h3><ul><li>New application menu bar with File, Playlist, and Control menus</li><li>Right-click context menu on transport controls</li><li>Show/hide artist names in the playlist</li><li>Consistent empty state colors per track</li><li>Refined title and artist text shadows for readability</li><li>Fixed volume slider jitter</li><li>Player always uses dark mode</li><li>macOS 14.0 is now the minimum supported version</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.42-beta%2B260428.1952/180db-Beta-0.1.42.dmg"
+        length="27223594"
+        type="application/octet-stream"
+        sparkle:edSignature="Z8Noxf/CR5hQ2lkCWcz2URMBx6cB3Rj6MPeESwCaPhIFWArMjPeYd2gtSQqIUY99wcm6UHfJGvOxgBHXjQeiCw=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.49</title>
+      <pubDate>Wed, 29 Apr 2026 16:39:56 GMT</pubDate>
+      <sparkle:version>260429.1838</sparkle:version>
+      <sparkle:shortVersionString>0.1.49</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>180db Changelog — April 28-29, 2026</h3>
+<h3>Audio Capture</h3>
+<ul>
+<li>New Cmd+B shortcut copies the last 30 seconds of audio to clipboard.</li>
+<li>Paste directly into your DAW or save as a WAV file.</li>
+</ul>
+<h3>Playback & Navigation</h3>
+<ul>
+<li>YouTube-style track navigation: clicking on the waveform progress bar navigates within the track.</li>
+<li>Right-click on the duration label now shows time remaining.</li>
+<li>Current track and playback position are now restored when reopening windows.</li>
+</ul>
+<h3>Drag & Drop</h3>
+<ul>
+<li>Drag and drop now works on the entire player window, not just specific areas.</li>
+</ul>
+<h3>Audio Engine</h3>
+<ul>
+<li>Resampling is now handled internally for better control and quality.</li>
+<li>Added parameter smoothing for smoother audio transitions.</li>
+<li>Audio processing moved to a separate thread for improved performance.</li>
+<li>Continuous buffer improvements for more stable playback.</li>
+</ul>
+<h3>UI Polish</h3>
+<ul>
+<li>Status bar background is now lighter for better readability.</li>
+<li>Various cosmetic refinements throughout the interface.</li>
+</ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.49-beta%2B260429.1838/180db-Beta-0.1.49.dmg"
+        length="24887813"
+        type="application/octet-stream"
+        sparkle:edSignature="hQCQ8yjcTvse7nxOBPesWBe4d6Oqkl6EX5FHQaNQTzvSX+w6flxLGXWjS8cua9Lva73CR4A8HcKE6GqHxqyGAQ=="
+      />
+    </item>
+      <item>
+      <title>Version 0.1.55</title>
+      <pubDate>Tue, 05 May 2026 16:26:55 GMT</pubDate>
+      <sparkle:version>260505.1824</sparkle:version>
+      <sparkle:shortVersionString>0.1.55</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[rc2]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.55-beta%2B260505.1824/180db-Beta-0.1.55.dmg"
+        length="25000771"
+        type="application/octet-stream"
+        sparkle:edSignature="QPsE2a3JDSUo9dVnGM7e5vqtWHh+pi6ov7ZrvPVAt7UYMQuBza7PHYS0/RA4EcNIKj51bzAy3rRkbm7InrINAA=="
+      />
+    </item>
   </channel>
 </rss>
