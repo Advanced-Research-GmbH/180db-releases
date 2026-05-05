@@ -326,5 +326,19 @@
         sparkle:edSignature="hQCQ8yjcTvse7nxOBPesWBe4d6Oqkl6EX5FHQaNQTzvSX+w6flxLGXWjS8cua9Lva73CR4A8HcKE6GqHxqyGAQ=="
       />
     </item>
+      <item>
+      <title>Version 0.1.55</title>
+      <pubDate>Tue, 05 May 2026 16:26:55 GMT</pubDate>
+      <sparkle:version>260505.1824</sparkle:version>
+      <sparkle:shortVersionString>0.1.55</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[rc2]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.55-beta%2B260505.1824/180db-Beta-0.1.55.dmg"
+        length="25000771"
+        type="application/octet-stream"
+        sparkle:edSignature="QPsE2a3JDSUo9dVnGM7e5vqtWHh+pi6ov7ZrvPVAt7UYMQuBza7PHYS0/RA4EcNIKj51bzAy3rRkbm7InrINAA=="
+      />
+    </item>
   </channel>
 </rss>
