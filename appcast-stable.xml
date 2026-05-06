@@ -75,5 +75,19 @@
         sparkle:edSignature="9+KNnntfC7CjkPh//uq9AXjvYe99OLn0KwHn7iIENj5/0PhOlqbEbwLJcQFxn/eKsX+tykhKrbYwO/ksCQwMAQ=="
       />
     </item>
+      <item>
+      <title>Version 0.2.6</title>
+      <pubDate>Wed, 06 May 2026 17:29:03 GMT</pubDate>
+      <sparkle:version>260506.1927</sparkle:version>
+      <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[relese candidate]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.2.6%2B260506.1927/180db-0.2.6.dmg"
+        length="27225133"
+        type="application/octet-stream"
+        sparkle:edSignature="1Op7AD1bl7vcgRsBWjZxkjQdkvfJI2/4Q7bjPD5faRjHba+NVthaWP6Rj1IuaajMf/dwKnYvDxjvjeB9KytCBw=="
+      />
+    </item>
   </channel>
 </rss>
