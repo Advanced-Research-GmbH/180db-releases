@@ -89,5 +89,19 @@
         sparkle:edSignature="1Op7AD1bl7vcgRsBWjZxkjQdkvfJI2/4Q7bjPD5faRjHba+NVthaWP6Rj1IuaajMf/dwKnYvDxjvjeB9KytCBw=="
       />
     </item>
+      <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Thu, 07 May 2026 06:28:29 GMT</pubDate>
+      <sparkle:version>260507.0826</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[relese]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.0%2B260507.0826/180db-1.0.0.dmg"
+        length="27225117"
+        type="application/octet-stream"
+        sparkle:edSignature="+vaxGtalhzv/M/KRcs3Cl+f0KXjy+WEjavj0j9/h30IN8t1x1buldTwmPQbj6sHkyb/l5a/06MUcsoQYRWc+Bw=="
+      />
+    </item>
   </channel>
 </rss>
