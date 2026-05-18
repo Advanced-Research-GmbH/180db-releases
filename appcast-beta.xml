@@ -4,56 +4,5 @@
         <title>180db Beta Updates</title>
         <language>en</language>
         
-        <item>
-            <title>1.0.8 (2605181513)</title>
-            <pubDate>2026-05-18 13:15:57</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>2605181513</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
-            
-            <description><![CDATA[another test]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.8-beta%2B260518.1513/180db-Beta-1.0.8.dmg"
-                length="27694357"
-                type="application/octet-stream"
-                sparkle:edSignature="SXanLYLHdNgn+SxhCn//hJB/dDJ9JQ3LRbgsuYwjKLMM9EAPDqn7G1L/sUkKGVRDzKQofA5ikX2N+eyp8NSUDQ=="
-            />
-        </item>
-        
-        <item>
-            <title>1.0.7 (2605181453)</title>
-            <pubDate>2026-05-18 12:55:19</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>2605181453</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
-            
-            <description><![CDATA[another test]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/googoogaagaa/releases/download/v1.0.7-beta%2B260518.1453/180db-Beta-1.0.7.dmg"
-                length="27694353"
-                type="application/octet-stream"
-                sparkle:edSignature="GdjZ221QEujaWmwyAJj3rzt7m1DUmD2AHEB/SZ1CQ4cAf0AN/28HyIU07qpMR2s/b3VLSkky+rnSejaaRuHXAQ=="
-            />
-        </item>
-        
-        <item>
-            <title>1.0.6 (2605181441)</title>
-            <pubDate>2026-05-18 12:43:59</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>2605181441</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
-            
-            <description><![CDATA[another test]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/googoogaagaa/releases/download/v1.0.6-beta%2B260518.1441/180db-Beta-1.0.6.dmg"
-                length="27694382"
-                type="application/octet-stream"
-                sparkle:edSignature="/svFPUWUJzaO+xHDfUcDJ3x/MnMPwhtaW6FxmtFrKXojFZ/nEO41hnwL4p7wZ++LlzeJIBYRmf7IqwtkduOkBA=="
-            />
-        </item>
-        
     </channel>
 </rss>
