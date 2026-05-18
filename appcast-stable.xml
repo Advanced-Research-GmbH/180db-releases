@@ -45,7 +45,7 @@
             <sparkle:version>2605070826</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             
-            <description><![CDATA[relese]]></description>
+            <description><![CDATA[<p><strong>Release!</strong></p>]]></description>
             
             <enclosure
                 url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.0%2B260507.0826/180db-1.0.0.dmg"
