@@ -14,14 +14,15 @@
       --accent: #3b82f6;
       --accent-hover: #2563eb;
       --stable: #22c55e;
+      --beta: #f59e0b;
     }
-    
+
     * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
     }
-    
+
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       background: var(--bg);
@@ -32,56 +33,60 @@
       align-items: center;
       padding: 4rem 1.5rem;
     }
-    
+
     .container {
       max-width: 640px;
       width: 100%;
     }
-    
+
     header {
       text-align: center;
       margin-bottom: 3rem;
     }
-    
+
     .logo {
       font-size: 4rem;
       font-weight: 700;
       letter-spacing: -0.05em;
       margin-bottom: 0.5rem;
     }
-    
+
     .tagline {
       color: var(--text-muted);
       font-size: 1.1rem;
     }
-    
+
     .channels {
       display: flex;
       flex-direction: column;
       gap: 1rem;
     }
-    
+
     .channel {
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: 12px;
+      overflow: hidden;
+      transition: border-color 0.2s;
+    }
+
+    .channel:hover {
+      border-color: #444;
+    }
+
+    .channel-header {
       padding: 1.5rem;
       display: flex;
       justify-content: space-between;
       align-items: center;
-      transition: border-color 0.2s;
     }
-    
-    .channel:hover {
-      border-color: #444;
-    }
-    
+
     .channel-info {
       display: flex;
       flex-direction: column;
       gap: 0.25rem;
     }
-    
+
     .channel-name {
       font-size: 1.25rem;
       font-weight: 600;
@@ -89,7 +94,7 @@
       align-items: center;
       gap: 0.5rem;
     }
-    
+
     .badge {
       font-size: 0.65rem;
       font-weight: 700;
@@ -98,23 +103,23 @@
       text-transform: uppercase;
       letter-spacing: 0.05em;
     }
-    
+
     .badge-stable {
       background: rgba(34, 197, 94, 0.15);
       color: var(--stable);
     }
-    
-    .channel-desc {
-      color: var(--text-muted);
-      font-size: 0.9rem;
+
+    .badge-beta {
+      background: rgba(245, 158, 11, 0.15);
+      color: var(--beta);
     }
-    
+
     .channel-version {
       color: var(--text-muted);
       font-size: 0.8rem;
       font-family: ui-monospace, monospace;
     }
-    
+
     .download-btn {
       background: var(--accent);
       color: white;
@@ -124,34 +129,116 @@
       font-weight: 500;
       font-size: 0.9rem;
       transition: background 0.2s;
+      flex-shrink: 0;
     }
-    
+
     .download-btn:hover {
       background: var(--accent-hover);
     }
-    
-    .download-btn.disabled {
-      background: var(--border);
-      color: var(--text-muted);
-      pointer-events: none;
+
+    /* Changelog */
+    .changelog {
+      border-top: 1px solid var(--border);
     }
-    
+
+    .changelog summary {
+      padding: 0.75rem 1.5rem;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      cursor: pointer;
+      user-select: none;
+      list-style: none;
+    }
+
+    .changelog summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .changelog summary::before {
+      content: "\25B6\00a0";
+      font-size: 0.6rem;
+      vertical-align: middle;
+    }
+
+    .changelog[open] summary::before {
+      content: "\25BC\00a0";
+    }
+
+    .changelog summary:hover {
+      color: var(--text);
+    }
+
+    .changelog-entries {
+      padding: 0 1.5rem 1.25rem;
+    }
+
+    .changelog-entry {
+      padding: 0.75rem 0;
+    }
+
+    .changelog-entry + .changelog-entry {
+      border-top: 1px solid var(--border);
+    }
+
+    .changelog-entry-header {
+      display: flex;
+      align-items: baseline;
+      gap: 0.5rem;
+      margin-bottom: 0.4rem;
+    }
+
+    .changelog-entry-version {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text);
+      font-family: ui-monospace, monospace;
+    }
+
+    .changelog-entry-date {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .changelog-entry-notes {
+      font-size: 0.85rem;
+      color: #bbb;
+      line-height: 1.5;
+    }
+
+    .changelog-entry-notes h3 {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-top: 0.5rem;
+      margin-bottom: 0.2rem;
+    }
+
+    .changelog-entry-notes h3:first-child {
+      margin-top: 0;
+    }
+
+    .changelog-entry-notes ul,
+    .changelog-entry-notes ol {
+      padding-left: 1.25rem;
+      margin: 0.2rem 0;
+    }
+
+    .changelog-entry-notes li {
+      margin: 0.1rem 0;
+    }
+
+    .changelog-entry-notes p {
+      margin: 0.2rem 0;
+    }
+
     .requirements {
       margin-top: 3rem;
       text-align: center;
       color: var(--text-muted);
       font-size: 0.85rem;
     }
-    
-    .requirements a {
-      color: var(--accent);
-      text-decoration: none;
-    }
-    
-    .requirements a:hover {
-      text-decoration: underline;
-    }
-    
+
     footer {
       margin-top: auto;
       padding-top: 4rem;
@@ -159,12 +246,12 @@
       color: var(--text-muted);
       font-size: 0.8rem;
     }
-    
+
     footer a {
       color: var(--text-muted);
       text-decoration: none;
     }
-    
+
     footer a:hover {
       color: var(--text);
     }
@@ -176,32 +263,160 @@
       <div class="logo">180db</div>
       <p class="tagline">High-fidelity audio player for macOS</p>
     </header>
-    
+
     <div class="channels">
+      
       <div class="channel">
-        <div class="channel-info">
-          <div class="channel-name">
-            180db
-            <span class="badge badge-stable">Stable</span>
+        <div class="channel-header">
+          <div class="channel-info">
+            <div class="channel-name">
+              180db
+              <span class="badge badge-stable">Stable</span>
+            </div>
+            <div class="channel-version">v1.0.1</div>
           </div>
-          <div class="channel-desc"></div>
-          <div class="channel-version">v1.0.1</div>
+          
+          <a href="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.1%2B260508.0753/180db-1.0.1.dmg" class="download-btn">Download</a>
+          
         </div>
-        <a href="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.1%2B260508.0753/180db-1.0.1.dmg" class="download-btn">Download</a>
+        
+        
+        <details class="changelog" open>
+          <summary>Changelog</summary>
+          <div class="changelog-entries">
+            
+            
+            <div class="changelog-entry">
+              <div class="changelog-entry-header">
+                <span class="changelog-entry-version">v1.0.1</span>
+                <span class="changelog-entry-date">2026-05-18</span>
+              </div>
+              <div class="changelog-entry-notes">Fixed a crash on start bug</div>
+            </div>
+            
+            
+            
+            <div class="changelog-entry">
+              <div class="changelog-entry-header">
+                <span class="changelog-entry-version">v1.0.0</span>
+                <span class="changelog-entry-date">2026-05-18</span>
+              </div>
+              <div class="changelog-entry-notes">relese</div>
+            </div>
+            
+            
+          </div>
+        </details>
+        
+      </div>
+      
+
+      
+      <div class="channel">
+        <div class="channel-header">
+          <div class="channel-info">
+            <div class="channel-name">
+              180db Beta
+              <span class="badge badge-beta">Beta</span>
+            </div>
+            <div class="channel-version">v1.0.8</div>
+          </div>
+          
+          <a href="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.8-beta%2B260518.1513/180db-Beta-1.0.8.dmg" class="download-btn">Download</a>
+          
+        </div>
+        
+        
+        <details class="changelog">
+          <summary>Changelog</summary>
+          <div class="changelog-entries">
+            
+            
+            <div class="changelog-entry">
+              <div class="changelog-entry-header">
+                <span class="changelog-entry-version">v1.0.8</span>
+                <span class="changelog-entry-date">2026-05-18</span>
+              </div>
+              <div class="changelog-entry-notes">another test</div>
+            </div>
+            
+            
+            
+            <div class="changelog-entry">
+              <div class="changelog-entry-header">
+                <span class="changelog-entry-version">v1.0.7</span>
+                <span class="changelog-entry-date">2026-05-18</span>
+              </div>
+              <div class="changelog-entry-notes">another test</div>
+            </div>
+            
+            
+            
+            <div class="changelog-entry">
+              <div class="changelog-entry-header">
+                <span class="changelog-entry-version">v1.0.6</span>
+                <span class="changelog-entry-date">2026-05-18</span>
+              </div>
+              <div class="changelog-entry-notes">another test</div>
+            </div>
+            
+            
+            
+            <div class="changelog-entry">
+              <div class="changelog-entry-header">
+                <span class="changelog-entry-version">v1.0.5</span>
+                <span class="changelog-entry-date">2026-05-13</span>
+              </div>
+              <div class="changelog-entry-notes">This is a democracy manifest</div>
+            </div>
+            
+            
+            
+            <div class="changelog-entry">
+              <div class="changelog-entry-header">
+                <span class="changelog-entry-version">v1.0.4</span>
+                <span class="changelog-entry-date">2026-05-13</span>
+              </div>
+              <div class="changelog-entry-notes">This is a democracy manifest</div>
+            </div>
+            
+            
+            
+            <div class="changelog-entry">
+              <div class="changelog-entry-header">
+                <span class="changelog-entry-version">v1.0.3</span>
+                <span class="changelog-entry-date">2026-05-13</span>
+              </div>
+              <div class="changelog-entry-notes">Testing</div>
+            </div>
+            
+            
+            
+            <div class="changelog-entry">
+              <div class="changelog-entry-header">
+                <span class="changelog-entry-version">v1.0.2</span>
+                <span class="changelog-entry-date">2026-05-13</span>
+              </div>
+              <div class="changelog-entry-notes"><p>Testing</p><ul><li><p>This</p></li><li><p>Is</p></li><li><p>a </p></li><li><p><strong>Robbery</strong></p></li></ul></div>
+            </div>
+            
+            
+          </div>
+        </details>
+        
       </div>
       
     </div>
+
     
     <div class="requirements">
       <p>Requires macOS 14.0 or later</p>
-      <p style="margin-top: 0.5rem;">
-        <a href="https://github.com/Advanced-Research-GmbH/180db-releases/releases">View all releases</a>
-      </p>
     </div>
+    
   </div>
-  
+
   <footer>
-    <p>&copy; 2026 <a href="https://advanced-research.net">Advanced Research</a></p>
+    <p>&copy; 2026 <a href="https://advanced-research.net">Advanced Research GmbH</a></p>
   </footer>
 </body>
 </html>
