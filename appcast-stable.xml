@@ -1,121 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>180db</title>
-    <link>https://Advanced-Research-GmbH.github.io/180db-releases/appcast-stable.xml</link>
-    <description>180db Updates</description>
-    <language>en</language>
-    <item>
-      <title>Version 0.1.0</title>
-      <pubDate>Mon, 02 Mar 2026 16:20:32 GMT</pubDate>
-      <sparkle:version>260302.1717</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-      <description><![CDATA[Bug fixes and improvements.]]></description>
-      <enclosure
-        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.0%2B260302.1717/180db-0.1.0.dmg"
-        length="31341446"
-        type="application/octet-stream"
-        sparkle:edSignature="twy0+DRv9t9lRSyDP6YLIdpoNBRTfHEltlW1jeKY9O0kJs9WpYVGAiY2XyLLw+ZhwmzF3Jdm+AOX5jpa3KXtAQ=="
-      />
-    </item>
-      <item>
-      <title>Version 0.1.53</title>
-      <pubDate>Tue, 05 May 2026 15:50:25 GMT</pubDate>
-      <sparkle:version>260505.1748</sparkle:version>
-      <sparkle:shortVersionString>0.1.53</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-      <description><![CDATA[rc2]]></description>
-      <enclosure
-        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.53%2B260505.1748/180db-0.1.53.dmg"
-        length="24516700"
-        type="application/octet-stream"
-        sparkle:edSignature="X8plbkIqpR9NbDJe8rSBtSLNJV8wGVfZ+wVWtNpB+009FW3AaeTyKMa/XQS/fPmuFR1eMsxVtze78cHSH7tXBQ=="
-      />
-    </item>
-      <item>
-      <title>Version 0.1.54</title>
-      <pubDate>Tue, 05 May 2026 16:08:57 GMT</pubDate>
-      <sparkle:version>260505.1807</sparkle:version>
-      <sparkle:shortVersionString>0.1.54</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-      <description><![CDATA[rc2]]></description>
-      <enclosure
-        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.54%2B260505.1807/180db-0.1.54.dmg"
-        length="24516309"
-        type="application/octet-stream"
-        sparkle:edSignature="on2EU2ClQv6MnuuQ1fHQvMXhvFjxL/OFxmwalzRbWYKhVf4rFrQQ54Etv57Jw5KuBmFzWcOKDOeocep+4xNCCA=="
-      />
-    </item>
-      <item>
-      <title>Version 0.1.55</title>
-      <pubDate>Tue, 05 May 2026 16:19:08 GMT</pubDate>
-      <sparkle:version>260505.1817</sparkle:version>
-      <sparkle:shortVersionString>0.1.55</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-      <description><![CDATA[rc2]]></description>
-      <enclosure
-        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.1.55%2B260505.1817/180db-0.1.55.dmg"
-        length="24519115"
-        type="application/octet-stream"
-        sparkle:edSignature="esx2Ffd0+s/fPTQ9DFdMmJkEbzN1hnayI6X3QTAQ5q7YxcyOfarZowTcuWZl2fRK8FufH8hqhZ/S1xWbYr0uAg=="
-      />
-    </item>
-      <item>
-      <title>Version 0.2.5</title>
-      <pubDate>Wed, 06 May 2026 17:12:17 GMT</pubDate>
-      <sparkle:version>260506.1910</sparkle:version>
-      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-      <description><![CDATA[relese candidate]]></description>
-      <enclosure
-        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.2.5%2B260506.1910/180db-0.2.5.dmg"
-        length="27225624"
-        type="application/octet-stream"
-        sparkle:edSignature="9+KNnntfC7CjkPh//uq9AXjvYe99OLn0KwHn7iIENj5/0PhOlqbEbwLJcQFxn/eKsX+tykhKrbYwO/ksCQwMAQ=="
-      />
-    </item>
-      <item>
-      <title>Version 0.2.6</title>
-      <pubDate>Wed, 06 May 2026 17:29:03 GMT</pubDate>
-      <sparkle:version>260506.1927</sparkle:version>
-      <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-      <description><![CDATA[relese candidate]]></description>
-      <enclosure
-        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v0.2.6%2B260506.1927/180db-0.2.6.dmg"
-        length="27225133"
-        type="application/octet-stream"
-        sparkle:edSignature="1Op7AD1bl7vcgRsBWjZxkjQdkvfJI2/4Q7bjPD5faRjHba+NVthaWP6Rj1IuaajMf/dwKnYvDxjvjeB9KytCBw=="
-      />
-    </item>
-      <item>
-      <title>Version 1.0.0</title>
-      <pubDate>Thu, 07 May 2026 06:28:29 GMT</pubDate>
-      <sparkle:version>260507.0826</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-      <description><![CDATA[relese]]></description>
-      <enclosure
-        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.0%2B260507.0826/180db-1.0.0.dmg"
-        length="27225117"
-        type="application/octet-stream"
-        sparkle:edSignature="+vaxGtalhzv/M/KRcs3Cl+f0KXjy+WEjavj0j9/h30IN8t1x1buldTwmPQbj6sHkyb/l5a/06MUcsoQYRWc+Bw=="
-      />
-    </item>
-      <item>
-      <title>Version 1.0.1</title>
-      <pubDate>Fri, 08 May 2026 05:55:10 GMT</pubDate>
-      <sparkle:version>260508.0753</sparkle:version>
-      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-      <description><![CDATA[Fixed a crash on start bug]]></description>
-      <enclosure
-        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.1%2B260508.0753/180db-1.0.1.dmg"
-        length="27222212"
-        type="application/octet-stream"
-        sparkle:edSignature="K4gDgfDgqA4Z/xMFoMXC9yyGkCkPqVsuF2N1Anl47dSi/YG1suKkW2VQCaTKpJR3sfpI570ZmGc6p7SDgAuSAg=="
-      />
-    </item>
-  </channel>
+    <channel>
+        <title>180db Stable Updates</title>
+        <language>en</language>
+        
+        <item>
+            <title>1.0.1 (2605080753)</title>
+            <pubDate>2026-05-18 13:11:59</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:version>2605080753</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            
+            <description><![CDATA[Fixed a crash on start bug]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.1%2B260508.0753/180db-1.0.1.dmg"
+                length="27222212"
+                type="application/octet-stream"
+                
+            />
+        </item>
+        
+        <item>
+            <title>1.0.0 (2605070826)</title>
+            <pubDate>2026-05-18 13:11:59</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:version>2605070826</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            
+            <description><![CDATA[relese]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.0%2B260507.0826/180db-1.0.0.dmg"
+                length="27225117"
+                type="application/octet-stream"
+                
+            />
+        </item>
+        
+    </channel>
 </rss>
