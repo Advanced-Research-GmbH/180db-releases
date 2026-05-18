@@ -11,7 +11,7 @@
             <sparkle:version>2605181534</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             
-            <description><![CDATA[<h3><strong>May 18 - 1.0.3 </strong></h3><ul><li><p>Fixed a bug when moving a currently playing track</p></li></ul>]]></description>
+            <description><![CDATA[<h3><strong>May 18 - v1.0.3</strong></h3><ul><li><p>Fixed a bug when moving a currently playing track</p></li></ul>]]></description>
             
             <enclosure
                 url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.3%2B260518.1534/180db-1.0.3.dmg"
