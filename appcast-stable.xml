@@ -5,6 +5,23 @@
         <language>en</language>
         
         <item>
+            <title>1.0.3 (2605181534)</title>
+            <pubDate>2026-05-18 13:36:04</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>2605181534</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            
+            <description><![CDATA[Fixed a bug when moving a currently playing track]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.3%2B260518.1534/180db-1.0.3.dmg"
+                length="27234156"
+                type="application/octet-stream"
+                sparkle:edSignature="tJbVb3kPMcK0FaW+jY4PKDDVtPz7Cvl/NkEI4gVYpJyk4ItwCILvrlbaMnXrsB0US5gvduzawYeRzC9iANNIAQ=="
+            />
+        </item>
+        
+        <item>
             <title>1.0.1 (2605080753)</title>
             <pubDate>2026-05-18 13:11:59</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
