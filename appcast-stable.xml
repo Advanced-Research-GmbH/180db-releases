@@ -5,6 +5,23 @@
         <language>en</language>
         
         <item>
+            <title>1.0.4 (2605191814)</title>
+            <pubDate>2026-05-19 16:16:45</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>2605191814</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            
+            <description><![CDATA[Fixed a bug that invalidates the license after an update]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.4%2B260519.1814/180db-1.0.4.dmg"
+                length="27234582"
+                type="application/octet-stream"
+                sparkle:edSignature="DIOiTBlxjFqY0E7MdzNRYoJa4hxXeVDL6TE6COuE3qk0HTXwPfTxqUxjw4FhBHEefcxXKJAuwCozTf9bqSriDw=="
+            />
+        </item>
+        
+        <item>
             <title>1.0.3 (2605181534)</title>
             <pubDate>2026-05-18 13:36:04</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
