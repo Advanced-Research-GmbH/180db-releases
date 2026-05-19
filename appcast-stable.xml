@@ -11,7 +11,7 @@
             <sparkle:version>2605191814</sparkle:version>
             <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             
-            <description><![CDATA[Fixed a bug that invalidates the license after an update]]></description>
+            <description><![CDATA[<p><strong>May 19 - v1.0.4</strong></p><ul><li><p>Fixed a bug that invalidates the license after an update</p></li></ul>]]></description>
             
             <enclosure
                 url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.4%2B260519.1814/180db-1.0.4.dmg"
