@@ -11,7 +11,7 @@
             <sparkle:version>260616.1353</sparkle:version>
             <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
             
-            <description><![CDATA[Stay on top, contrast issues, red beta icon]]></description>
+            <description><![CDATA[<p><strong>Beta v1.0.14</strong></p><ul><li><p>Pin on top</p></li><li><p>Contrast issues (white background)</p></li><li><p>Red beta icon</p></li></ul><p></p>]]></description>
             
             <enclosure
                 url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.14-beta%2B260616.1353/180db-Beta-1.0.14.dmg"
