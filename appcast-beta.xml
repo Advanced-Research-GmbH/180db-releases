@@ -5,6 +5,23 @@
         <language>en</language>
         
         <item>
+            <title>1.0.18 (2606171613)</title>
+            <pubDate>2026-06-17 14:16:10</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260617.1613</sparkle:version>
+            <sparkle:shortVersionString>1.0.18</sparkle:shortVersionString>
+            
+            <description><![CDATA[Cue beta 4]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.18-beta%2B260617.1613/180db-Beta-1.0.18.dmg"
+                length="28253599"
+                type="application/octet-stream"
+                sparkle:edSignature="x9WICgPbSGvfBa7V9CaweMoaM4KPY7lkpAoMartiLCImfnV5Q1qAb8domwGs8iLyxG9Mca2M1VExL2knKK48DA=="
+            />
+        </item>
+        
+        <item>
             <title>1.0.17 (2606171403)</title>
             <pubDate>2026-06-17 12:06:12</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
@@ -35,74 +52,6 @@
                 length="28185014"
                 type="application/octet-stream"
                 sparkle:edSignature="J/5kn656kPnlSDvOymbuaTi4wa4c87H+86kWm4tgRfGz3lRHXMEhzJhSv877rHe5tHNEWuIvM8e56OI1DVokAA=="
-            />
-        </item>
-        
-        <item>
-            <title>1.0.15 (2606161531)</title>
-            <pubDate>2026-06-16 13:34:04</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260616.1531</sparkle:version>
-            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
-            
-            <description><![CDATA[Cue beta]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.15-beta%2B260616.1531/180db-Beta-1.0.15.dmg"
-                length="27889916"
-                type="application/octet-stream"
-                sparkle:edSignature="tyHxHPfhdNCGlURh5gEgJO2py6WcxUTj6gKyWBP+DYY7e7Fqk4AE4NNGu2BkI2f74FimnJDq7aksWMwLXcoWCw=="
-            />
-        </item>
-        
-        <item>
-            <title>1.0.14 (2606161353)</title>
-            <pubDate>2026-06-16 11:56:17</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260616.1353</sparkle:version>
-            <sparkle:shortVersionString>1.0.14</sparkle:shortVersionString>
-            
-            <description><![CDATA[<p><strong>Beta v1.0.14</strong></p><ul><li><p>Pin on top</p></li><li><p>Contrast issues (white background)</p></li><li><p>Red beta icon</p></li></ul><p></p>]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.14-beta%2B260616.1353/180db-Beta-1.0.14.dmg"
-                length="27872619"
-                type="application/octet-stream"
-                sparkle:edSignature="58aLBAJbWkakreK4m6RRHzchoSAYLjMPs2eQUoIE9olF2qAC1TvKkIB03rsAR/fYW2ZoU8e3QeJVFl07i1+zDA=="
-            />
-        </item>
-        
-        <item>
-            <title>1.0.13 (2606151639)</title>
-            <pubDate>2026-06-15 14:42:33</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260615.1639</sparkle:version>
-            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
-            
-            <description><![CDATA[Sorting]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.13-beta%2B260615.1639/180db-Beta-1.0.13.dmg"
-                length="27843176"
-                type="application/octet-stream"
-                sparkle:edSignature="a4e7y/TpGe9zJPQJiNc6zzzLxX6Ed+drO+5EwR8Kd8m5ddFzbK2HdVlSQ/2pdTeIbt8pRbDmZbJ5WMykBBlhBg=="
-            />
-        </item>
-        
-        <item>
-            <title>1.0.12 (2606021531)</title>
-            <pubDate>2026-06-02 13:33:21</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260602.1531</sparkle:version>
-            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
-            
-            <description><![CDATA[Bugfixes and improvements]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.12-beta%2B260602.1531/180db-Beta-1.0.12.dmg"
-                length="27745864"
-                type="application/octet-stream"
-                sparkle:edSignature="TV0r/Y9354Xd2BwUg0Y9Dv+8GFgUF5MsSlOMAtPNQGt08J+9/AE6HePx4TjyDNlHoIetGEA3nUOYkwkl3bmCAg=="
             />
         </item>
         
