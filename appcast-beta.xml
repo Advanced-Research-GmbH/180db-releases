@@ -5,6 +5,23 @@
         <language>en</language>
         
         <item>
+            <title>1.0.24 (2606191741)</title>
+            <pubDate>2026-06-19 15:43:48</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260619.1741</sparkle:version>
+            <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+            
+            <description><![CDATA[dj mode beta, click zoomed in, duplicate window]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.24-beta%2B260619.1741/180db-Beta-1.0.24.dmg"
+                length="28426952"
+                type="application/octet-stream"
+                sparkle:edSignature="+Yye0fweJU0uiubQa29mHVwQHzbj01H+yP8grFhGwnyrF2Q526H/Gaie1ql1k88zKWnx915xMi1sJRpmUAczCA=="
+            />
+        </item>
+        
+        <item>
             <title>1.0.23 (2606182244)</title>
             <pubDate>2026-06-18 20:47:05</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
@@ -18,23 +35,6 @@
                 length="28286306"
                 type="application/octet-stream"
                 sparkle:edSignature="70PLmUEzcqqhEn0URNCgM3RrSqNIJDNsCWl2wCCUp1OgREiI1nGbSj4Hj0E2c0ll3UDNmdrbTBIUOG+5vB9aAQ=="
-            />
-        </item>
-        
-        <item>
-            <title>1.0.22 (2606181751)</title>
-            <pubDate>2026-06-18 15:53:47</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260618.1751</sparkle:version>
-            <sparkle:shortVersionString>1.0.22</sparkle:shortVersionString>
-            
-            <description><![CDATA[refactor cue]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.22-beta%2B260618.1751/180db-Beta-1.0.22.dmg"
-                length="28277787"
-                type="application/octet-stream"
-                sparkle:edSignature="cSzWg1BYiqPbJ4NsLsg0r5zdCLa9ZScwuZteI6H2TXuFejnAwkaUu+dVaMBZ7Hl9hev6l15hR3x5Vp/TmFOzAA=="
             />
         </item>
         
