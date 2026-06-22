@@ -55,22 +55,5 @@
             />
         </item>
         
-        <item>
-            <title>1.0.23 (2606182244)</title>
-            <pubDate>2026-06-18 20:47:05</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260618.2244</sparkle:version>
-            <sparkle:shortVersionString>1.0.23</sparkle:shortVersionString>
-            
-            <description><![CDATA[Cue changes, = to zoom in, repeat+shuffle persistence, 1-9 playback when paused]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.23-beta%2B260618.2244/180db-Beta-1.0.23.dmg"
-                length="28286306"
-                type="application/octet-stream"
-                sparkle:edSignature="70PLmUEzcqqhEn0URNCgM3RrSqNIJDNsCWl2wCCUp1OgREiI1nGbSj4Hj0E2c0ll3UDNmdrbTBIUOG+5vB9aAQ=="
-            />
-        </item>
-        
     </channel>
 </rss>
