@@ -5,6 +5,23 @@
         <language>en</language>
         
         <item>
+            <title>1.0.27 (2606241204)</title>
+            <pubDate>2026-06-24 10:07:25</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260624.1204</sparkle:version>
+            <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
+            
+            <description><![CDATA[Cue color, cue fix]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.27-beta%2B260624.1204/180db-Beta-1.0.27.dmg"
+                length="28300430"
+                type="application/octet-stream"
+                sparkle:edSignature="M1s83SJqEJgA/tAxBoGLx84m6USC56lRNAoaY2q8tFBJB1iVjzpwG9nI/Mklzh7e1k3WZt69Rmc7qxF0uDp4Ag=="
+            />
+        </item>
+        
+        <item>
             <title>1.0.26 (2606222121)</title>
             <pubDate>2026-06-22 19:24:43</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
