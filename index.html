@@ -421,16 +421,6 @@
             </div>
             
             
-            
-            <div class="changelog-entry">
-              <div class="changelog-entry-header">
-                <span class="changelog-entry-version">v1.0.26</span>
-                <span class="changelog-entry-date">2026-06-22</span>
-              </div>
-              <div class="changelog-entry-notes"><p><strong>Changelog — Cue &amp; Transport UI Overhaul</strong></p><ol><li><p><strong>Transient Detection toggle in Audio menu</strong> — Cmd+Shift+T, with checkmark state</p></li><li><p><strong>Cue Nudge Amount submenu in Audio menu</strong> — Presets: 5, 10, 20, 50, 100, 200, 500 ms. Default: 10ms</p></li><li><p><strong>Debug visuals decoupled</strong> — AnalysisTab has separate "Show Debug Visuals" toggle; transient markers show independently</p></li><li><p><strong>Dynamic triad color palette</strong> — Cue/transient colors adapt when cover art background is red or yellow (CueColorPalette.swift)</p></li><li><p><strong>Ghost cue marker</strong> — Previous cue position shown at 0.7 opacity, fades over 0.2s, cleared when zoom hides</p></li><li><p><strong>Cue press glow (C key)</strong> — Symmetric radial bloom (10/20/30px), stacks with rapid presses up to 1.5x, fades over 0.6s</p></li><li><p><strong>Cue directional trail (nudge/transient)</strong> — 20px gradient tail in the direction of travel, debounced (stays solid during rapid nudging), fades over 0.6s after last action</p></li><li><p><strong>Playhead directional trail</strong> — 14px subtle white gradient tail on seek/scrub, debounced, fades after 0.4s. Constant leftward shadow during playback restored</p></li><li><p><strong>Playhead direction-aware</strong> — Trail direction flips on seek backward</p></li><li><p><strong>Transient markers clear on toggle off</strong> — No stale markers when disabling analysis</p></li><li><p><strong>Scrub exits cue state</strong> — Clicking the transport resets cuePreview/pausedAtCue so next C press works correctly</p></li><li><p><strong>Cue shortcuts in Playback menu</strong> — C, X, comma, period, Shift+comma, Shift+period listed as reference</p></li><li><p><strong>zIndex layering</strong> — All markers/trails/playhead render above Metal waveform</p></li></ol></div>
-            </div>
-            
-            
           </div>
         </details>
         
