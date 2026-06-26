@@ -55,39 +55,5 @@
             />
         </item>
         
-        <item>
-            <title>1.0.28 (2606241451)</title>
-            <pubDate>2026-06-24 12:54:25</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260624.1451</sparkle:version>
-            <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
-            
-            <description><![CDATA[Cue appears on nudging, dynamic menu, covers in THE PLAYLIST!!!!!, duplication moves the window a little, 10x without transients]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.28-beta%2B260624.1451/180db-Beta-1.0.28.dmg"
-                length="28315156"
-                type="application/octet-stream"
-                sparkle:edSignature="iLcHndCC87iW1QCeIMrA84Ub5m0nW9NmcMQjz7uW63zI9jAcCpRNZTjDpqOqVAjF45y8kDzvsZ3gUxW7L61JBQ=="
-            />
-        </item>
-        
-        <item>
-            <title>1.0.27 (2606241204)</title>
-            <pubDate>2026-06-24 10:07:25</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260624.1204</sparkle:version>
-            <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
-            
-            <description><![CDATA[Cue color, cue fix]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.27-beta%2B260624.1204/180db-Beta-1.0.27.dmg"
-                length="28300430"
-                type="application/octet-stream"
-                sparkle:edSignature="M1s83SJqEJgA/tAxBoGLx84m6USC56lRNAoaY2q8tFBJB1iVjzpwG9nI/Mklzh7e1k3WZt69Rmc7qxF0uDp4Ag=="
-            />
-        </item>
-        
     </channel>
 </rss>
