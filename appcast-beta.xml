@@ -5,6 +5,23 @@
         <language>en</language>
         
         <item>
+            <title>1.0.35 (2606301858)</title>
+            <pubDate>2026-06-30 17:01:01</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260630.1858</sparkle:version>
+            <sparkle:shortVersionString>1.0.35</sparkle:shortVersionString>
+            
+            <description><![CDATA[metadata changes, cover list fix, skip track fix, manage account]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.35-beta%2B260630.1858/180db-Beta-1.0.35.dmg"
+                length="28428519"
+                type="application/octet-stream"
+                sparkle:edSignature="CDBTa//WPMwTwKNRQPfQwtVGxOQ7kmMDcalCRiRbu9eCfsYeYtYoPnfR46ET6j+SIA36RhP+GOlY3CdfiIbFDw=="
+            />
+        </item>
+        
+        <item>
             <title>1.0.34 (2606262008)</title>
             <pubDate>2026-06-26 18:10:34</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
