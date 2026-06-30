@@ -21,56 +21,5 @@
             />
         </item>
         
-        <item>
-            <title>1.0.34 (2606262008)</title>
-            <pubDate>2026-06-26 18:10:34</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260626.2008</sparkle:version>
-            <sparkle:shortVersionString>1.0.34</sparkle:shortVersionString>
-            
-            <description><![CDATA[hot fix for filled progress bar, fixed cue performance issues (mutex lock contention)]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.34-beta%2B260626.2008/180db-Beta-1.0.34.dmg"
-                length="28387688"
-                type="application/octet-stream"
-                sparkle:edSignature="C7JHN8RSwODDsmknnhukzKjKPrk6lkaMdIIqC/YBnQp1IjBVTm3JtAp827CrvhCDM9IAlFoiLsOREEq/mGW1BA=="
-            />
-        </item>
-        
-        <item>
-            <title>1.0.33 (2606261857)</title>
-            <pubDate>2026-06-26 16:59:43</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260626.1857</sparkle:version>
-            <sparkle:shortVersionString>1.0.33</sparkle:shortVersionString>
-            
-            <description><![CDATA[hot fix]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.33-beta%2B260626.1857/180db-Beta-1.0.33.dmg"
-                length="28387201"
-                type="application/octet-stream"
-                sparkle:edSignature="iHv2hIzI7pU0XB/XMmOQ+e8+HOCin3ZY196e4mQVoDuqG2i8b7ggnX+n3gctUXOYwbeX6h8z72Q1GfDR1MSCDg=="
-            />
-        </item>
-        
-        <item>
-            <title>1.0.32 (2606261817)</title>
-            <pubDate>2026-06-26 16:19:44</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260626.1817</sparkle:version>
-            <sparkle:shortVersionString>1.0.32</sparkle:shortVersionString>
-            
-            <description><![CDATA[fixed skipped track, cue logic, prefetching status, time, shader menu, shader persistence and sharing bug]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.32-beta%2B260626.1817/180db-Beta-1.0.32.dmg"
-                length="28386131"
-                type="application/octet-stream"
-                sparkle:edSignature="43vpuMJTL9kHR1sbaOPVJBoAB9EsDc40gC3Zte7p59A+AmOBLN0O3C5S4bzOqVTBaxSTw+Q+G2o4vhSvKD2sAA=="
-            />
-        </item>
-        
     </channel>
 </rss>
