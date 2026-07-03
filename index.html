@@ -362,6 +362,90 @@
       
 
       
+      <div class="channel">
+        <div class="channel-header">
+          <div class="channel-info">
+            <div class="channel-name">
+              180db Beta
+              <span class="badge badge-beta">Beta</span>
+            </div>
+            <div class="channel-version">v1.0.37</div>
+          </div>
+          
+          <a href="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.37-beta%2B260703.1223/180db-Beta-1.0.37.dmg" class="download-btn">Download</a>
+          
+        </div>
+        
+        
+        <details class="changelog">
+          <summary>Changelog</summary>
+          <div class="changelog-entries">
+            
+            
+            <div class="changelog-entry">
+              <div class="changelog-entry-header">
+                <span class="changelog-entry-version">v1.0.37</span>
+                <span class="changelog-entry-date">2026-07-03</span>
+              </div>
+              <div class="changelog-entry-notes"><h3>180db Changelog — July 3, 2026</h3>
+<h3>Stability</h3>
+<ul>
+<li>Fixed several crashes: moving tracks with nothing selected, pressing play on a restored window whose playlist had shrunk, and loading playlists with stale database entries.</li>
+<li>Closing the license window with the red button no longer leaves the app stuck with no windows.</li>
+<li>Pressing Stop exactly as a track ends no longer jumps to the next track on its own.</li>
+</ul>
+<h3>Playlists</h3>
+<ul>
+<li>Skipped and cycling track markers now survive reordering, deleting tracks, and app restarts — previously any playlist change silently wiped them.</li>
+<li>Moving a non-contiguous selection now keeps the right tracks highlighted.</li>
+<li>Re-importing files you already have no longer erases their titles, artists, and metadata.</li>
+</ul>
+<h3>Startup & Windows</h3>
+<ul>
+<li>The app now launches instantly when offline or on a slow network — no more waiting on the license server.</li>
+<li>Window positions are saved reliably, even when you move a window and quit immediately.</li>
+<li>Opening windows is faster (fewer database reads per window).</li>
+</ul>
+<h3>System Integration</h3>
+<ul>
+<li>Control Center now shows a live progress scrubber and updates when an album advances between tracks.</li>
+<li>Opening an audio file from Finder into an empty window now imports and starts playing reliably.</li>
+<li>Captured audio (Cmd+B) pasted as a file no longer disappears after 60 seconds.</li>
+</ul>
+<h3>Multi-Window</h3>
+<ul>
+<li>Right-click menus on a background window now act on that window — previously Pause or Remove Track could hit the wrong player.</li>
+</ul>
+<h3>Keyboard</h3>
+<ul>
+<li>Shortcuts like C (cue), M (mute), and S (shuffle) now work on non-QWERTY keyboard layouts.</li>
+<li>Setting a cue at the very start of a track (0:00) now works like any other cue.</li>
+<li>Raising the volume slider while muted now unmutes.</li>
+</ul>
+<h3>Safety</h3>
+<ul>
+<li>Wipe Database now asks for confirmation before deleting anything — Return and Escape both cancel; the wipe requires an explicit click.</li>
+</ul>
+<h3>Performance</h3>
+<ul>
+<li>Large album covers no longer re-upload to the GPU on every interaction (big win with the DJ shader active).</li>
+<li>Playlists with tracks that have no artwork no longer hammer the disk while scrolling.</li>
+<li>Reduced idle background work: cached text measurements, smarter prefetch polling, batched playlist refreshes.</li>
+</ul>
+<h3>Under the Hood</h3>
+<ul>
+<li>Removed over 4,000 lines of dead code across the audio engine and app.</li>
+<li>Build pipeline hardened: a failed Rust build can no longer silently ship a stale audio engine, and release builds now hard-fail if the update signature is missing.</li>
+<li>New engine safety guards around cue points, decode threads, and device changes.</li>
+</ul></div>
+            </div>
+            
+            
+          </div>
+        </details>
+        
+      </div>
+      
     </div>
 
     
