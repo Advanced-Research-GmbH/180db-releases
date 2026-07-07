@@ -5,6 +5,23 @@
         <language>en</language>
         
         <item>
+            <title>1.0.41 (2607071551)</title>
+            <pubDate>2026-07-07 13:54:12</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260707.1551</sparkle:version>
+            <sparkle:shortVersionString>1.0.41</sparkle:shortVersionString>
+            
+            <description><![CDATA[transport current task id equitable fix]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.41-beta%2B260707.1551/180db-Beta-1.0.41.dmg"
+                length="27664310"
+                type="application/octet-stream"
+                sparkle:edSignature="k/mxOfbJFByYOKwyfhjIE5sY4HXM/cj3iZ2vQ/dbq4WYm6YJNn4IuFnOZbIhoK1V4dTZM4a+TG5R9v7LHy3CDQ=="
+            />
+        </item>
+        
+        <item>
             <title>1.0.40 (2607071515)</title>
             <pubDate>2026-07-07 13:18:01</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
