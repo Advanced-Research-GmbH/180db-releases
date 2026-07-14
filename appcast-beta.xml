@@ -21,22 +21,5 @@
             />
         </item>
         
-        <item>
-            <title>1.0.51 (2607141724)</title>
-            <pubDate>2026-07-14 15:27:20</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260714.1724</sparkle:version>
-            <sparkle:shortVersionString>1.0.51</sparkle:shortVersionString>
-            
-            <description><![CDATA[requested fixes]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.51-beta%2B260714.1724/180db-Beta-1.0.51.dmg"
-                length="27985380"
-                type="application/octet-stream"
-                sparkle:edSignature="l8ka9P5r2PC37TMT2/kYldXZ6mMR0k4I6Wmj77KigrGbpNX96jg9X4M/AqX9mb0Wik3iQCrVOhKVe8D3y6jpDg=="
-            />
-        </item>
-        
     </channel>
 </rss>
