@@ -369,10 +369,10 @@
               180db Beta
               <span class="badge badge-beta">Beta</span>
             </div>
-            <div class="channel-version">v1.0.59</div>
+            <div class="channel-version">v1.0.60</div>
           </div>
           
-          <a href="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.59-beta%2B260715.1611/180db-Beta-1.0.59.dmg" class="download-btn">Download</a>
+          <a href="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.60-beta%2B260715.1822/180db-Beta-1.0.60.dmg" class="download-btn">Download</a>
           
         </div>
         
@@ -380,6 +380,57 @@
         <details class="changelog">
           <summary>Changelog</summary>
           <div class="changelog-entries">
+            
+            
+            <div class="changelog-entry">
+              <div class="changelog-entry-header">
+                <span class="changelog-entry-version">v1.0.60</span>
+                <span class="changelog-entry-date">2026-07-15</span>
+              </div>
+              <div class="changelog-entry-notes"><h3>180db Changelog — July 14, 2026</h3>
+<h3>New: Snapshots</h3>
+<ul>
+<li>Store any window into a slot with ⌥⌘1–9 and recall it with ⌘1–9 (also File ▸ Store/Recall Snapshot).</li>
+<li>A snapshot is a frozen copy of the whole window — playlist, layout, volume, pinned state — and survives closing the window and relaunching the app.</li>
+<li>Recalling opens a fresh window each time. Edits to a recalled window don't change the stored snapshot; store again to update a slot.</li>
+</ul>
+<h3>New: Playlist Search</h3>
+<ul>
+<li>Press ⌘F and type a few letters — fuzzy matching finds tracks from fragments ("boc mus" finds "Boards of Canada – Music Is Math").</li>
+<li>The top hit is always highlighted: Enter plays it, ⇧Enter jumps to it in the playlist without playing.</li>
+<li>Closing the search leaves your playlist scroll and selection exactly where they were.</li>
+<li>The status bar shows how many tracks match; right-click a result for Reveal in Finder / Skip / Remove.</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>WAV files from sample packs that previously failed to open now load and show waveforms.</li>
+<li>Seeking with the digit keys (0–9) on short tracks no longer jumps to the next track by itself.</li>
+<li>On macOS 14/15, the playhead, timecode, and album cover no longer freeze until you move the mouse.</li>
+<li>Cover-only mode now handles non-square artwork: the window follows the cover's shape instead of forcing a square.</li>
+</ul>
+<h3>Playback</h3>
+<ul>
+<li>With shuffle on, Next/Previous now scrolls the playlist to the new track — from the keyboard, the on-screen buttons, and media keys alike.</li>
+<li>New cycle (repeat) control in the status bar; cycle mode is remembered per window.</li>
+</ul>
+<h3>Menus & Shortcuts</h3>
+<ul>
+<li>Display toggles now use checkmarks ("✓ Artist Name") instead of Show/Hide wording — in the View menu and all right-click menus.</li>
+<li>Copy "Artist – Title" from a track's right-click menu, or press ⌘C on selected rows. The status bar confirms what was copied.</li>
+<li>"Search with Google" on any track's right-click menu.</li>
+<li>Reveal in Finder is now ⌥R and works app-wide. ⌘R now copies the 30-second buffer; Clear Buffer is ⇧⌘R.</li>
+</ul>
+<h3>Status Bar</h3>
+<ul>
+<li>The total playlist duration is now clickable — click to toggle exact duration.</li>
+<li>Shuffle and cycle icons are easier to hit.</li>
+</ul>
+<h3>Performance</h3>
+<ul>
+<li>Many engine and rendering improvements under the hood for smoother playback and lower idle load.</li>
+</ul></div>
+            </div>
+            
             
             
             <div class="changelog-entry">
