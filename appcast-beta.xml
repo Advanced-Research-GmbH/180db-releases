@@ -106,39 +106,5 @@
             />
         </item>
         
-        <item>
-            <title>1.0.74 (2607272246)</title>
-            <pubDate>2026-07-27 20:49:14</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260727.2246</sparkle:version>
-            <sparkle:shortVersionString>1.0.74</sparkle:shortVersionString>
-            
-            <description><![CDATA[Reworking recents, bugfixes]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.74-beta%2B260727.2246/180db-Beta-1.0.74.dmg"
-                length="37104688"
-                type="application/octet-stream"
-                sparkle:edSignature="KMxy05BoA3KPT3NAykMn7vHa+OVXmrg4aiuCDLITv1VlQlVuKcuN5Ikotf+DYvQkkDZo4lh+AOg9457Xl0EJAw=="
-            />
-        </item>
-        
-        <item>
-            <title>1.0.73 (2607272120)</title>
-            <pubDate>2026-07-27 19:22:51</pubDate>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <sparkle:version>260727.2120</sparkle:version>
-            <sparkle:shortVersionString>1.0.73</sparkle:shortVersionString>
-            
-            <description><![CDATA[Reworking recents, bugfixes]]></description>
-            
-            <enclosure
-                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.73-beta%2B260727.2120/180db-Beta-1.0.73.dmg"
-                length="37095364"
-                type="application/octet-stream"
-                sparkle:edSignature="MB8w6EgthmNZyTOiliAGsa0Nj6ZyeMTdVyRIpaZ93JrMThA5hmSOhTqAVtjHgPW8AEXCS9B+O+IM8m9VffuSAg=="
-            />
-        </item>
-        
     </channel>
 </rss>
