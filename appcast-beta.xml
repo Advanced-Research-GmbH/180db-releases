@@ -4,5 +4,22 @@
         <title>180db Beta Updates</title>
         <language>en</language>
         
+        <item>
+            <title>1.1.0 (2608121936)</title>
+            <pubDate>2026-08-12 17:39:11</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260812.1936</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            
+            <description><![CDATA[DJ ALPHA]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.1.0-beta%2B260812.1936/180db-Beta-1.1.0.dmg"
+                length="29147391"
+                type="application/octet-stream"
+                sparkle:edSignature="TRRmLZ/K2Jj2BTZlaIbkjBieHHBi5uyBIdgKUWlUOW+nHpsBwo02oa+AH4xC2ijeN4v6G6emBJAJDOoFPyJ5Ag=="
+            />
+        </item>
+        
     </channel>
 </rss>
