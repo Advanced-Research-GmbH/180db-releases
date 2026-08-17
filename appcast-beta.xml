@@ -5,6 +5,23 @@
         <language>en</language>
         
         <item>
+            <title>1.1.3 (2608171136)</title>
+            <pubDate>2026-08-17 09:47:57</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260817.1136</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            
+            <description><![CDATA[Channel names, sound lab & filter tuning workstation]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.1.3-beta%2B260817.1136/180db-Beta-1.1.3.dmg"
+                length="38008927"
+                type="application/octet-stream"
+                sparkle:edSignature="YjGubejBgyhU66dt3ooEpxWOSGZQ57ZUTXQ1em7qKgHh6pCo7SW1nzEkKlSuyTF7l9VSVUQ9GAakdM7akJ3yBw=="
+            />
+        </item>
+        
+        <item>
             <title>1.1.2 (2608151617)</title>
             <pubDate>2026-08-15 14:20:45</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
