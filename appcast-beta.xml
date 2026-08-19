@@ -5,6 +5,66 @@
         <language>en</language>
         
         <item>
+            <title>1.1.6 (2608192222)</title>
+            <pubDate>2026-08-19 20:25:19</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260819.2222</sparkle:version>
+            <sparkle:shortVersionString>1.1.6</sparkle:shortVersionString>
+            
+            <description><![CDATA[<h3>180db Beta 1.1.6 (August 19, 2026)</h3>
+<h3>Что тестировать</h3>
+<ul>
+<li>Разрешите уведомления при первом запуске.</li>
+<li>Оставьте 180db в фоне: следующая бета покажет баннер через несколько секунд после публикации. Клик открывает окно обновления.</li>
+<li>Откройте 180db ▸ Check for Updates… и убедитесь, что видите этот текст.</li>
+<li>Включите DJ-режим с двумя окнами и перезапустите приложение: оба окна и значки A/B на месте.</li>
+<li>Нажмите глобальный шорткат (Настройки ⌘,) несколько раз: окно поднимается, а не плодится.</li>
+</ul>
+<h3>Новое: мгновенные бета-обновления</h3>
+<ul>
+<li>Бета узнаёт о новой сборке через несколько секунд после публикации.</li>
+<li>Если 180db в фоне, приходит системное уведомление. Клик открывает окно обновления.</li>
+<li>Заметки к выпуску всегда начинаются с раздела «Что тестировать», на русском и английском.</li>
+</ul>
+<h3>Исправления</h3>
+<ul>
+<li>Глобальный шорткат на macOS 15 поднимает существующее окно вместо создания нового.</li>
+<li>Окна появляются при запуске, даже если приложение закрывалось с включённым DJ-режимом.</li>
+<li>Значки деков A/B не остаются на других рабочих столах и не всплывают поверх полноэкранных приложений.</li>
+<li>Окна, застрявшие невидимыми после запуска, показываются, как только приложение становится активным.</li>
+</ul>
+<hr>
+<h3>What to test</h3>
+<ul>
+<li>Allow notifications on first launch.</li>
+<li>Leave 180db in the background: the next beta shows a banner within seconds of publication. Clicking it opens the update window.</li>
+<li>Open 180db ▸ Check for Updates… and confirm you see this text.</li>
+<li>Turn DJ mode on with two windows and relaunch the app: both windows and the A/B badges are in place.</li>
+<li>Press the global shortcut (Settings ⌘,) a few times: the window comes forward, it does not multiply.</li>
+</ul>
+<h3>New: instant beta updates</h3>
+<ul>
+<li>The beta learns about a new build within seconds of publication.</li>
+<li>If 180db is in the background, a system notification arrives. Clicking it opens the update window.</li>
+<li>Release notes always start with a "What to test" section, in Russian and English.</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>The global shortcut on macOS 15 brings the existing window forward instead of creating a new one.</li>
+<li>Windows appear at launch even when the app was quit with DJ mode on.</li>
+<li>The A/B deck badges no longer linger on other Spaces or float over fullscreen apps.</li>
+<li>Windows stuck invisible after launch surface as soon as the app becomes active.</li>
+</ul>]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.1.6-beta%2B260819.2222/180db-Beta-1.1.6.dmg"
+                length="39278999"
+                type="application/octet-stream"
+                sparkle:edSignature="Lx/j6dSVct9KYYliIvYDHzXqBhu421Q0ITpEDZwgs/SDbe25IGDu12DaDC2CUuu12waFXv1KRmGEGMm6/6FMBg=="
+            />
+        </item>
+        
+        <item>
             <title>1.1.5 (2608191825)</title>
             <pubDate>2026-08-19 16:27:56</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
