@@ -5,6 +5,42 @@
         <language>en</language>
         
         <item>
+            <title>1.1.7 (2608192302)</title>
+            <pubDate>2026-08-19 21:05:54</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260819.2302</sparkle:version>
+            <sparkle:shortVersionString>1.1.7</sparkle:shortVersionString>
+            
+            <description><![CDATA[<h3>180db Beta 1.1.7 (August 19, 2026)</h3>
+<h3>Что тестировать</h3>
+<ul>
+<li>Обновитесь до этой версии по уведомлению или через Check for Updates.</li>
+<li>Оставьте приложение работать: следующая бета покажет уведомление с сообщением о том, что именно тестировать.</li>
+</ul>
+<h3>Новое: свой текст в уведомлении</h3>
+<ul>
+<li>Уведомление о новой бете теперь несёт короткое сообщение от разработчика вместо стандартной строки. Впервые вы увидите его в следующей бете.</li>
+</ul>
+<hr>
+<h3>What to test</h3>
+<ul>
+<li>Update to this version via the notification or Check for Updates.</li>
+<li>Keep the app running: the next beta will show a notification with a message about what to test.</li>
+</ul>
+<h3>New: custom text in the update notification</h3>
+<ul>
+<li>The new-beta notification now carries a short message from the developer instead of the standard line. You will see it for the first time in the next beta.</li>
+</ul>]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.1.7-beta%2B260819.2302/180db-Beta-1.1.7.dmg"
+                length="39280972"
+                type="application/octet-stream"
+                sparkle:edSignature="PN4z0K2rRLDfZ3rzvDCcdRwN2wQOmTS3iiDw8v/IZTVPQMwA3w87aXtdcKpe1sVYeIa40n08KtvB9zoR3I6qCA=="
+            />
+        </item>
+        
+        <item>
             <title>1.1.6 (2608192222)</title>
             <pubDate>2026-08-19 20:25:19</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
