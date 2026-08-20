@@ -5,6 +5,99 @@
         <language>en</language>
         
         <item>
+            <title>1.1.9 (2608201436)</title>
+            <pubDate>2026-08-20 12:39:12</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260820.1436</sparkle:version>
+            <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
+            
+            <description><![CDATA[<h3>180db Beta 1.1.9 (August 20, 2026)</h3>
+<p>🕵️ 🪤 🐛 → 7️⃣7️⃣7️⃣ 🎰 🎯🎯🎯</p>
+<h3>Что тестировать</h3>
+<ul>
+<li>Зажми одну цифру (например 7) и тарабань её подряд во время игры: каждое нажатие даёт ровно тот же звук с того же места. Особенно на FLAC. Это главный фикс релиза: пойман буфер, который стирал уже готовый звук после прыжка.</li>
+<li>⌘P, Enter на недавнем элементе: окно открывается, нужный трек выбран, но музыка сама НЕ запускается. То же в File ▸ Open Recent.</li>
+<li>В палитре ⌘P: ⇧↩ добавляет элемент в активное окно, ⌘↩ теперь снова Stop.</li>
+<li>Выдели несколько треков и нажми ⇧⌘X (или правый клик ▸ Skip Tracks): все помечаются скипнутыми, один ⌘Z возвращает всё разом.</li>
+<li>Потяни окно за угол в разные стороны, не отпуская мышь: лейаут успевает без тормозов. Потяни нижний край вниз: растёт плейлист, обложка стоит на месте.</li>
+<li>(macOS 15) Полностью закрой плеер другим окном секунд на десять и вернись по ⌘Tab: без чёрной вспышки фона, обложка сразу на месте. Повтори раз двадцать.</li>
+<li>Открой боковые панели DJ (⌘D), затем покрути ползунки в Shader Settings: «уши» держат цвет плеера, никакого фиолетового.</li>
+<li>Меню Window: открытые плееры видны по названию трека, клик поднимает окно.</li>
+<li>Сохрани снапшот плейлиста с разными альбомами (⌥⌘1): карточка в ⌘P собирает сетку до 4 обложек, первой идёт обложка текущего трека. Один альбом: обложка во всю карточку.</li>
+<li>Измени ширину палитры ⌘P с длинным именем в списке: межбуквенные расстояния не плавают.</li>
+</ul>
+<h3>Новое: список окон в меню Window</h3>
+<ul>
+<li>Открытые плееры перечислены в меню Window по имени трека («Artist – Title»), клик поднимает окно. Имена видны и в Mission Control.</li>
+</ul>
+<h3>Новое: трасса сика в журнале</h3>
+<ul>
+<li>Каждое нажатие цифры пишет в журнал сессии (Inspector ▸ Logs) полную трассу: от нажатия до первого звука, по стадиям, с форматом и длительностью файла. Если сик когда-нибудь снова попадёт не туда, лог назовёт виновника сам.</li>
+</ul>
+<h3>Исправления</h3>
+<ul>
+<li>Повторные нажатия одной цифры больше не звучат по-разному: закрыта гонка, в которой буфер стирал свежий звук после прыжка. Жила во всех сборках с конца июля.</li>
+<li>Recents: выбор элемента больше не запускает воспроизведение. Add to Active Window переехал с ⌘↩ на ⇧↩, ⌘↩ снова означает Stop.</li>
+<li>Skip Track работает на всём выделении и получил рабочий шорткат ⇧⌘X (⌘X остаётся за Cut, как везде).</li>
+<li>Боковые панели DJ больше не сбрасываются на чужой цвет при настройке шейдера и после перезапуска.</li>
+<li>Обложка больше не растёт сама, когда тянешь окно за нижний край; делитель не прыгает под курсором при захвате.</li>
+<li>Карточки снапшотов: несколько обложек собираются в сетку, одна обложка занимает всю карточку, текущий трек всегда первый.</li>
+<li>Возврат по ⌘Tab к полностью перекрытому окну: без чёрной вспышки и пустой обложки. Актуально для macOS 15.</li>
+<li>Длинные имена в ⌘P больше не меняют межбуквенные расстояния при изменении ширины палитры.</li>
+</ul>
+<h3>Производительность</h3>
+<ul>
+<li>Перетаскивание окна за угол больше не тормозит: с горячего пути ресайза убраны двойные проходы лейаута и логирование.</li>
+<li>Обложка отдаёт системе уменьшенную картинку: окно после перекрытия возвращается мгновенно, память не раздувается на больших артах.</li>
+</ul>
+<hr>
+<h3>What to test</h3>
+<ul>
+<li>Hold one digit (say 7) and hammer it while a track plays: every press replays the exact same audio from the exact same spot. Especially on FLAC. This is the headline fix: we caught the buffer that was erasing freshly decoded audio right after the jump.</li>
+<li>⌘P, Enter on a recent item: a window opens with the right track selected, but nothing starts playing. Same for File ▸ Open Recent.</li>
+<li>In the ⌘P palette: ⇧↩ adds the item to the active window, ⌘↩ is Stop again.</li>
+<li>Select several tracks and press ⇧⌘X (or right-click ▸ Skip Tracks): all of them get skipped, one ⌘Z brings them all back.</li>
+<li>Drag a window corner around without releasing the mouse: the layout keeps up. Drag the bottom edge down: the playlist grows, the cover stays put.</li>
+<li>(macOS 15) Fully cover the player with another window for ten seconds, then ⌘Tab back: no black background flash, the cover is there instantly. Repeat twenty times.</li>
+<li>Open the DJ side panels (⌘D), then drag sliders in Shader Settings: the side panels keep the player's color, no purple.</li>
+<li>Window menu: open players are listed by track name, clicking one brings it to front.</li>
+<li>Store a snapshot of a multi-album playlist (⌥⌘1): the ⌘P card fills a grid of up to 4 covers, the current track's first. One album: its cover fills the whole card.</li>
+<li>Resize the ⌘P palette with a long name in the list: the letter spacing stays put.</li>
+</ul>
+<h3>New: window list in the Window menu</h3>
+<ul>
+<li>Open players are listed in the Window menu by track name («Artist – Title»), clicking one fronts it. The names show up in Mission Control too.</li>
+</ul>
+<h3>New: seek trace in the log</h3>
+<ul>
+<li>Every digit press writes a full trace to the session log (Inspector ▸ Logs): from the key press to the first sound, stage by stage, with the file's format and duration. If a seek ever lands wrong again, the log will name the culprit on its own.</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>Repeated presses of the same digit no longer sound different: closed the race where the buffer erased fresh post-jump audio. It had been in every build since late July.</li>
+<li>Recents: selecting an item no longer starts playback. Add to Active Window moved from ⌘↩ to ⇧↩, and ⌘↩ means Stop again.</li>
+<li>Skip Track acts on the whole selection and got a working shortcut, ⇧⌘X (⌘X stays Cut, as everywhere).</li>
+<li>The DJ side panels no longer reset to a foreign color when tweaking the shader or after a relaunch.</li>
+<li>The cover no longer grows on its own when you drag the window's bottom edge; the divider no longer jumps under the cursor on grab.</li>
+<li>Snapshot cards: multiple covers fill the grid, a single cover fills the whole card, the current track always comes first.</li>
+<li>⌘Tab back to a fully covered window: no black flash, no blank cover. Mostly a macOS 15 thing.</li>
+<li>Long names in ⌘P no longer shift their letter spacing as the palette resizes.</li>
+</ul>
+<h3>Performance</h3>
+<ul>
+<li>Dragging a window by its corner no longer stutters: double layout passes and hot-path logging are gone from the resize path.</li>
+<li>The cover hands the system a downscaled image: windows return instantly after being covered, and big artwork no longer bloats memory.</li>
+</ul>]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.1.9-beta%2B260820.1436/180db-Beta-1.1.9.dmg"
+                length="39329363"
+                type="application/octet-stream"
+                sparkle:edSignature="C99nryUFQpQ+B04QXqlnwmITibO2SVk4kzgVUm/MmMg7YqrbGKKJStOdWMder0dMt3ra1Jkfw5FqSQeafhXqDw=="
+            />
+        </item>
+        
+        <item>
             <title>1.1.8 (2608192339)</title>
             <pubDate>2026-08-19 21:42:01</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
