@@ -5,6 +5,23 @@
         <language>en</language>
         
         <item>
+            <title>1.1.12 (2608281521)</title>
+            <pubDate>2026-08-28 13:24:30</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260828.1521</sparkle:version>
+            <sparkle:shortVersionString>1.1.12</sparkle:shortVersionString>
+            
+            <description><![CDATA[settings final, missing files, bugfixes: emcee window attribution, audio settings jumps, esc on mixer, snapshots in recents]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.1.12-beta%2B260828.1521/180db-Beta-1.1.12.dmg"
+                length="38045231"
+                type="application/octet-stream"
+                sparkle:edSignature="VBqPDn80+5qC7y5cqcMcbRwMA5njIzHbyeZI1O+RML2Ahk5iZTgrZtMa29ZWiN2hv3QSYflEMORuYxz+n50WDg=="
+            />
+        </item>
+        
+        <item>
             <title>1.1.11 (2608241530)</title>
             <pubDate>2026-08-24 13:33:07</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
