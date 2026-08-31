@@ -5,6 +5,23 @@
         <language>en</language>
         
         <item>
+            <title>1.1.14 (2608311804)</title>
+            <pubDate>2026-08-31 16:07:27</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260831.1804</sparkle:version>
+            <sparkle:shortVersionString>1.1.14</sparkle:shortVersionString>
+            
+            <description><![CDATA[tuning v2, favorites, bug fixes]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.1.14-beta%2B260831.1804/180db-Beta-1.1.14.dmg"
+                length="38181824"
+                type="application/octet-stream"
+                sparkle:edSignature="uI9cM1pmsp4i/ACmzTwRp1tTxBn9t7krEyYtpQWG8pWsi4/WXx9Nw/88UPC4r+9yR5Unh/JKd/bszPyaKPs8Ag=="
+            />
+        </item>
+        
+        <item>
             <title>1.1.13 (2608311425)</title>
             <pubDate>2026-08-31 12:28:31</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
