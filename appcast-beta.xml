@@ -5,6 +5,31 @@
         <language>en</language>
         
         <item>
+            <title>1.1.17 (2609012234)</title>
+            <pubDate>2026-09-01 20:37:05</pubDate>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <sparkle:version>260901.2234</sparkle:version>
+            <sparkle:shortVersionString>1.1.17</sparkle:shortVersionString>
+            
+            <description><![CDATA[<h3>180db Beta 1.1.17 (September 1, 2026)</h3>
+<h3>What to test</h3>
+<p>1. ⌘P: no duplicates, grouped by day (toggle in View menu)</p>
+<p>2. ⌘P right-click: Clear Unavailable</p>
+<p>3. Quick Access Shortcut twice: scrolls to active track</p>
+<p>4. Enter in ⌘P fills an empty window</p>
+<p>5. ⌥-click Play: solo (pauses other windows)</p>
+<p>6. Drag snapshot cards to reorder (⌘Z undoes)</p>
+<p>7. macOS 15: waveform blink on play/pause, ⌘Tab</p>]]></description>
+            
+            <enclosure
+                url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.1.17-beta%2B260901.2234/180db-Beta-1.1.17.dmg"
+                length="39565785"
+                type="application/octet-stream"
+                sparkle:edSignature="suFnEHUQASB9tCKDX1cEAfM4jdfPV/FPnBNBArmzcS8/17Tqat4NgGmmM8lY7fJpKJJEsbCmyj0GzkGlEaFBBw=="
+            />
+        </item>
+        
+        <item>
             <title>1.1.16 (2609011816)</title>
             <pubDate>2026-09-01 16:18:59</pubDate>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
