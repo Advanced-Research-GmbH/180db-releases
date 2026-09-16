@@ -211,5 +211,24 @@
             />
         </item>
         
-    </channel>
+        <item>
+      <title>Version 1.0.90</title>
+      <pubDate>Wed, 16 Sep 2026 10:56:24 GMT</pubDate>
+      <sparkle:version>260916.1247</sparkle:version>
+      <sparkle:shortVersionString>1.0.90</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>180db Changelog — Sep 16, 2026</h3>
+<h3>HOTFIX for MacOS 27</h3>
+<ul>
+<li>Fixes the issue with window draggability and resizing</li>
+<li>Fixes missing app menu icons</li>
+</ul>]]></description>
+      <enclosure
+        url="https://github.com/Advanced-Research-GmbH/180db-releases/releases/download/v1.0.90%2B260916.1247/180db-1.0.90.dmg"
+        length="28224002"
+        type="application/octet-stream"
+        sparkle:edSignature="0uVGo7RsjaW6vuTePCwNV7uBNIpFXsA0FiGETlbmSaqYZCxOnpc1nlkuse6EU/b0pDMM1fFcz+TpXmRzUqNuAA=="
+      />
+    </item>
+  </channel>
 </rss>
